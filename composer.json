@@ -1,0 +1,8 @@
+{
+    "name": "saft/psrrdf",
+    "autoload": {
+        "psr-4": {
+            "Psr\\Rdf\\": ["Psr/Rdf"]
+        }
+    }
+}
