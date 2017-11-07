@@ -1,6 +1,6 @@
 # Repository for the PSR\RDF candidate
 
-Based on the following specification: https://github.com/SaftIng/fig-standards/edit/master/proposed/rdf/rdf.md
+Based on the following specification: https://github.com/SaftIng/fig-standards/blob/psr-rdf/proposed/rdf/rdf.md
 
 |     Interface     |      According Class       |
 |:-----------------:|:--------------------------:|
