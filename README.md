@@ -2,15 +2,16 @@
 
 Based on the following specification: https://github.com/SaftIng/fig-standards/edit/master/proposed/rdf/rdf.md
 
-|  Interface  | According Class |
-|:-----------:|:---------------:|
-|    Node     |        -        |
-|  BlankNode  |  BlankNodeImpl  |
-|   Literal   |   LiteralImpl   |
-|  NamedNode  |  NamedNodeImpl  |
-|  Statement  |  StatementImpl  |
-| NodeFactory | NodeFactoryImpl |
-|      -      | AnyPatternImpl  |
+|     Interface     |      According Class       |
+|:-----------------:|:--------------------------:|
+|       Node        |             -              |
+|     BlankNode     |       BlankNodeImpl        |
+|      Literal      |        LiteralImpl         |
+|     NamedNode     |       NamedNodeImpl        |
+|     Statement     |       StatementImpl        |
+|    NodeFactory    |      NodeFactoryImpl       |
+|         -         |       AnyPatternImpl       |
+| StatementIterator | ArrayStatementIteratorImpl |
 
 ## Acknowledgement
 
